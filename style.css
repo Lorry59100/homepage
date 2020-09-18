@@ -57,6 +57,7 @@ h1 span {
 .logo-medias {
     width: 10%;
     height: 10%;
+    margin: 1em;
 }
 
 .medias {
@@ -79,7 +80,7 @@ ul li a {
 .liens {
     position: relative;
     top: 50%;
-    left: 3%;
+    left: 30%;
 }
 
 h2 {
