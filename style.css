@@ -7,8 +7,8 @@
 body {
     background: grey;
     font-family: Arial, Helvetica, sans-serif;
-    height: 100vh;
     background-image: url('https://images.pexels.com/photos/4144147/pexels-photo-4144147.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
+    height: 100vh;
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
